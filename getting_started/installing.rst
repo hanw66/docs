@@ -85,3 +85,19 @@ Add this line to the end of the document and save:
 .. parsed-literal::
 
 	myuser ALL=(ALL) NOPASSWD: ALL
+	
+Once installed, open the settings app:
+
+.. parsed-literal::
+
+	openplotter-settings
+	
+Next you will need to install the different OpenPlotter packages. To do this, press the following buttons in the OpenPlotter Apps tab one after the other:
+
+.. parsed-literal::
+
+	Add Sources
+	
+	Update Candidates
+	
+Then, one by one, select the packages you need and press the Install button on the right.
